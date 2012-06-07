@@ -1,0 +1,11 @@
+clear;
+clc;
+cd ~/Documents/MATH149/matlab_examples;
+load_javaplex;
+cd ~/Documents/MATH149/git;
+pc = get_pointcloud('Letters/B/1.jpg');
+map = get_vertex_points_map(pc);
+stream = connect_vertices(map);
+persistence = api.Plex4.getModularSimplicialAlgorithm(2,2);
+intervals = persistence.computeAnnotatedIndexIntervals(stream);
+%plot_barcodes(intervals);
