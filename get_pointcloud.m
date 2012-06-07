@@ -8,7 +8,7 @@ pc = zeros(sum(sum(im(:,:,1))), 2);
 count = 1;
 for x = 1:size(im,1)
     for y = 1:size(im,2)
-        if im(x,y) == 1
+        if im(x,y) >= 1
             pc(count,:) = [y x];
             count = count + 1;
         end
