@@ -1,41 +1,36 @@
-Predicted: A |  Actual: A
-Predicted: A |  Actual: A
-Predicted: B |  Actual: B
-Predicted: C |  Actual: C
 Predicted: A |  Actual: D
 Predicted: F |  Actual: D
 Predicted: P |  Actual: D
 Predicted: A |  Actual: D
+Predicted: i |  Actual: E
+Predicted: f |  Actual: E
 Predicted: E |  Actual: E
-Predicted: E |  Actual: E
-Predicted: C |  Actual: E
 Predicted: A |  Actual: E
+Predicted: D |  Actual: F
+Predicted: K |  Actual: F
 Predicted: F |  Actual: F
-Predicted: F |  Actual: F
-Predicted: F |  Actual: F
-Predicted: F |  Actual: F
+Predicted: i |  Actual: F
+Predicted: v |  Actual: G
 Predicted: G |  Actual: G
-Predicted: G |  Actual: G
-Predicted: G |  Actual: G
-Predicted: G |  Actual: G
+Predicted: w |  Actual: G
+Predicted: O |  Actual: G
 Predicted: D |  Actual: H
 Predicted: D |  Actual: H
-Predicted: H |  Actual: H
+Predicted: u |  Actual: H
 Predicted: D |  Actual: H
 Predicted: A |  Actual: I
-Predicted: A |  Actual: I
+Predicted: C |  Actual: I
 Predicted: A |  Actual: I
 Predicted: A |  Actual: I
 Predicted: D |  Actual: J
 Predicted: D |  Actual: J
 Predicted: I |  Actual: J
 Predicted: A |  Actual: K
+Predicted: F |  Actual: K
+Predicted: H |  Actual: K
 Predicted: K |  Actual: K
-Predicted: K |  Actual: K
-Predicted: I |  Actual: K
-Predicted: L |  Actual: L
 Predicted: D |  Actual: M
-Predicted: M |  Actual: M
+Predicted: h |  Actual: M
 Predicted: H |  Actual: M
 Predicted: D |  Actual: M
 Predicted: a |  Actual: N
@@ -45,99 +40,119 @@ Predicted: D |  Actual: N
 Predicted: H |  Actual: O
 Predicted: H |  Actual: O
 Predicted: G |  Actual: O
-Predicted: O |  Actual: O
-Predicted: P |  Actual: P
+Predicted: N |  Actual: O
+Predicted: w |  Actual: P
 Predicted: A |  Actual: P
-Predicted: P |  Actual: P
+Predicted: h |  Actual: P
 Predicted: H |  Actual: P
-Predicted: A |  Actual: V
-Predicted: W |  Actual: W
-Predicted: D |  Actual: Y
-Predicted: A |  Actual: a
-Predicted: A |  Actual: a
 Predicted: A |  Actual: a
 Predicted: C |  Actual: a
-Predicted: b |  Actual: b
-Predicted: b |  Actual: b
-Predicted: c |  Actual: c
-Predicted: C |  Actual: c
-Predicted: C |  Actual: c
-Predicted: C |  Actual: c
-Predicted: d |  Actual: d
+Predicted: C |  Actual: a
+Predicted: I |  Actual: a
+Predicted: u |  Actual: c
+Predicted: E |  Actual: c
+Predicted: E |  Actual: c
+Predicted: E |  Actual: c
+Predicted: M |  Actual: d
 Predicted: H |  Actual: d
 Predicted: H |  Actual: d
-Predicted: d |  Actual: d
-Predicted: C |  Actual: e
-Predicted: e |  Actual: e
-Predicted: C |  Actual: e
-Predicted: e |  Actual: e
-Predicted: A |  Actual: f
-Predicted: A |  Actual: f
-Predicted: g |  Actual: g
-Predicted: C |  Actual: g
-Predicted: g |  Actual: g
+Predicted: h |  Actual: d
+Predicted: I |  Actual: e
+Predicted: r |  Actual: e
+Predicted: E |  Actual: e
+Predicted: n |  Actual: e
+Predicted: P |  Actual: g
+Predicted: I |  Actual: g
+Predicted: y |  Actual: g
 Predicted: I |  Actual: g
 Predicted: D |  Actual: h
 Predicted: D |  Actual: h
 Predicted: D |  Actual: h
 Predicted: D |  Actual: h
 Predicted: I |  Actual: i
-Predicted: i |  Actual: i
-Predicted: i |  Actual: i
+Predicted: E |  Actual: i
+Predicted: F |  Actual: i
 Predicted: A |  Actual: i
 Predicted: I |  Actual: j
 Predicted: I |  Actual: j
-Predicted: j |  Actual: j
-Predicted: C |  Actual: k
-Predicted: k |  Actual: k
+Predicted: i |  Actual: j
 Predicted: A |  Actual: l
 Predicted: D |  Actual: l
-Predicted: f |  Actual: l
+Predicted: l |  Actual: l
 Predicted: A |  Actual: l
 Predicted: D |  Actual: m
-Predicted: A |  Actual: m
-Predicted: A |  Actual: m
-Predicted: m |  Actual: m
-Predicted: A |  Actual: n
+Predicted: C |  Actual: m
+Predicted: C |  Actual: m
+Predicted: a |  Actual: m
 Predicted: C |  Actual: n
-Predicted: A |  Actual: n
-Predicted: A |  Actual: n
+Predicted: E |  Actual: n
 Predicted: C |  Actual: n
+Predicted: C |  Actual: n
+Predicted: E |  Actual: n
 Predicted: A |  Actual: o
 Predicted: A |  Actual: o
 Predicted: A |  Actual: o
-Predicted: C |  Actual: o
-Predicted: C |  Actual: p
-Predicted: p |  Actual: p
-Predicted: A |  Actual: q
+Predicted: E |  Actual: o
+Predicted: E |  Actual: r
 Predicted: C |  Actual: r
-Predicted: A |  Actual: r
-Predicted: e |  Actual: r
-Predicted: A |  Actual: r
+Predicted: r |  Actual: r
+Predicted: C |  Actual: r
 Predicted: D |  Actual: s
 Predicted: D |  Actual: s
 Predicted: D |  Actual: s
 Predicted: D |  Actual: s
-Predicted: t |  Actual: t
-Predicted: t |  Actual: t
-Predicted: t |  Actual: t
 Predicted: A |  Actual: t
-Predicted: A |  Actual: u
-Predicted: A |  Actual: u
+Predicted: x |  Actual: t
+Predicted: D |  Actual: t
+Predicted: A |  Actual: t
+Predicted: C |  Actual: u
+Predicted: C |  Actual: u
 Predicted: D |  Actual: u
-Predicted: A |  Actual: u
+Predicted: C |  Actual: u
 Predicted: D |  Actual: v
-Predicted: a |  Actual: v
+Predicted: v |  Actual: v
 Predicted: I |  Actual: v
 Predicted: D |  Actual: v
 Predicted: H |  Actual: w
 Predicted: D |  Actual: w
 Predicted: H |  Actual: w
 Predicted: u |  Actual: w
-Predicted: b |  Actual: x
-Predicted: A |  Actual: x
 Predicted: y |  Actual: y
 Predicted: y |  Actual: y
 Predicted: D |  Actual: y
 Predicted: D |  Actual: y
-Accuracy: 0.302816901408
+
+Letter: E  | Accuracy: 0.25  | Accuracy (case insensitive): 0.25  | Count: 4
+Letter: D  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: G  | Accuracy: 0.25  | Accuracy (case insensitive): 0.25  | Count: 4
+Letter: F  | Accuracy: 0.25  | Accuracy (case insensitive): 0.25  | Count: 4
+Letter: I  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: H  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: K  | Accuracy: 0.25  | Accuracy (case insensitive): 0.25  | Count: 4
+Letter: J  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 3
+Letter: M  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: O  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: N  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: P  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: a  | Accuracy: 0.0  | Accuracy (case insensitive): 0.25  | Count: 4
+Letter: c  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: e  | Accuracy: 0.0  | Accuracy (case insensitive): 0.25  | Count: 4
+Letter: d  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: g  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: i  | Accuracy: 0.0  | Accuracy (case insensitive): 0.25  | Count: 4
+Letter: h  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: j  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 3
+Letter: m  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: l  | Accuracy: 0.25  | Accuracy (case insensitive): 0.25  | Count: 4
+Letter: o  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: n  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 5
+Letter: s  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: r  | Accuracy: 0.25  | Accuracy (case insensitive): 0.25  | Count: 4
+Letter: u  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: t  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: w  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: v  | Accuracy: 0.25  | Accuracy (case insensitive): 0.25  | Count: 4
+Letter: y  | Accuracy: 0.5  | Accuracy (case insensitive): 0.5  | Count: 4
+
+Overall accuracy: 0.0731707317073
+Overall accuracy (case insensitive): 0.0975609756098
