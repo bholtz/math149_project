@@ -1,0 +1,12 @@
+We did really well at predicting F and G
+  F: only two-pronged letter in our test set
+    there's also t, but that's...well, different
+  G: could have been confused with C or e, but I guess the hook gave it away?
+
+we only ever thought that one actually-uppercase letter was lower case
+  (line 41 of results)
+more often confused lowercase letters for uppercase, but even that's not terrible
+  consider that C and c are indistinguishable but for size, o and O, u and U, etc.
+
+generally we seem to perform worse on lowercase letters
+best lowercase letter is c (confused only for C)
