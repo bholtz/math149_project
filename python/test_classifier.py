@@ -34,7 +34,7 @@ def predict_letter(clmap, row, dist_matrix):
   nearest_neighbors = collections.defaultdict(lambda: 0)
   # histogram of the letter of the nearest neighbors
 
-  for col in neighbors[1:3]: # look at 2 nearest neighbors (excludes self)
+  for col in neighbors[1:3]: # look at 3 nearest neighbors (excludes self)
     nearest_neighbors[clmap[col]] += 1
     if nearest_neighbors[clmap[col]] > most_common_neighbor_freq:
       most_common_neighbor_freq = nearest_neighbors[clmap[col]]

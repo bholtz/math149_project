@@ -11,7 +11,7 @@ Predicted: K |  Actual: F
 Predicted: F |  Actual: F
 Predicted: i |  Actual: F
 Predicted: v |  Actual: G
-Predicted: P |  Actual: G
+Predicted: G |  Actual: G
 Predicted: w |  Actual: G
 Predicted: O |  Actual: G
 Predicted: D |  Actual: H
@@ -56,7 +56,7 @@ Predicted: E |  Actual: c
 Predicted: M |  Actual: d
 Predicted: H |  Actual: d
 Predicted: H |  Actual: d
-Predicted: H |  Actual: d
+Predicted: h |  Actual: d
 Predicted: I |  Actual: e
 Predicted: r |  Actual: e
 Predicted: E |  Actual: e
@@ -124,7 +124,7 @@ Predicted: D |  Actual: y
 
 Letter: E  | Accuracy: 0.25  | Accuracy (case insensitive): 0.25  | Count: 4
 Letter: D  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
-Letter: G  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
+Letter: G  | Accuracy: 0.25  | Accuracy (case insensitive): 0.25  | Count: 4
 Letter: F  | Accuracy: 0.25  | Accuracy (case insensitive): 0.25  | Count: 4
 Letter: I  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
 Letter: H  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
@@ -154,5 +154,5 @@ Letter: w  | Accuracy: 0.0  | Accuracy (case insensitive): 0.0  | Count: 4
 Letter: v  | Accuracy: 0.25  | Accuracy (case insensitive): 0.25  | Count: 4
 Letter: y  | Accuracy: 0.5  | Accuracy (case insensitive): 0.5  | Count: 4
 
-Overall accuracy: 0.0650406504065
-Overall accuracy (case insensitive): 0.0894308943089
+Overall accuracy: 0.0731707317073
+Overall accuracy (case insensitive): 0.0975609756098
