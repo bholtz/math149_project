@@ -64,4 +64,4 @@ for row = 1:sum(num_letters)
     end
 end
 distances = distances + distances';
-dlmwrite('distances', distances)
+dlmwrite('distances_harmonic', distances)
